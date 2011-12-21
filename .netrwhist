@@ -1,3 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =3
 let g:netrw_dirhist_1='/home/chris/rails_projects/blog/app/views/posts'
+let g:netrw_dirhist_2='/home/chris/java/JCrypto/src/main/java/com/github/omgwtfun/crypts'
+let g:netrw_dirhist_3='/etc/network'
